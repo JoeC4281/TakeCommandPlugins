@@ -1,5 +1,7 @@
 SIFT — Returns a sorted list of files in an array.
 
+[SIFT Plugin for Take Command](http://prospero.unm.edu/plugins/sift.html)
+
 Syntax:
 ```dos
 SIFT /A:attribs /C:sep /I /R /T:stamp /U /V /Z n criterion array filespec…
