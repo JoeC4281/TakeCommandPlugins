@@ -64,6 +64,10 @@ You can combine these, *e.g.* /NDJ.
 
 alias \|\! ffields /e /f:"$0 = %%@len\[$1\]" /x
 
+&nbsp;
+
+Source: [TextUtils Plugin (unm.edu)](<http://prospero.unm.edu/plugins/textutils.html#ffields>)
+
 
 ***
 _Created with the Personal Edition of HelpNDoc: [Free Kindle producer](<https://www.helpndoc.com/feature-tour/create-ebooks-for-amazon-kindle>)_
